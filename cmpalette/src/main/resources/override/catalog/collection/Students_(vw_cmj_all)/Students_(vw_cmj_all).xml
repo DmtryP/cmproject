@@ -10,7 +10,7 @@
 	self_3,
 	group_st,
 	speciality,
-	Subject
+	subject
 from
 	(
 	select
@@ -18,7 +18,7 @@ from
 		rkkbase.created_date,
 		rkkbase.updated_date,
 		rkkbase.module as module,
-		rkkbase.subject as Subject,
+		rkkbase.subject as subject,
 		'<id>' as self_1,
 		':' as self_2,
 		'</>' as self_3,
