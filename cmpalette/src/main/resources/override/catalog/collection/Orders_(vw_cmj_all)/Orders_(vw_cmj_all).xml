@@ -1,4 +1,4 @@
-<collection name="Students_(vw_cmj_all)" idField="id" replace="runtime">
+<collection name="Orders_(vw_cmj_all)" idField="id" replace="runtime">
     <prototype>
         <![CDATA[Select
 	id,
