@@ -802,6 +802,7 @@
               </field>
             </component>
           </section>
+
           <field attribute-ref="$titleHeader">
             <properties>
               <require condition-union="AND">
