@@ -7,6 +7,7 @@
         <column-ref ref="self"/>
         <column-ref ref="group_st" filter="true" sort-asc="true" sort-desc="true"/>
         <column-ref ref="speciality" filter="true" sort-desc="true" sort-asc="true"/>
+        <column-ref ref="Subject"/>
       </columns>
     </table>
   </custom-descriptor>

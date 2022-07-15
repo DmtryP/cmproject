@@ -10,5 +10,6 @@
         </source>
       </view>
     </subfolders>
+    <icon code="sprite/sidebarCMJSprite.png" path="sprite/sidebarCMJSprite.png" position="42"/>
   </folder>
 </catalog>
