@@ -6,7 +6,7 @@
 
 	<bean id="Students_(vw_cmj_all)Metadata"
           class="ru.intertrust.cm_sochi.srv.connector.sochi.collections.CollectionMetadataNew"
-          p:caseSensitiveFieldNames="true" p:searchArea="WorkplaceRequests">
+          p:caseSensitiveFieldNames="true">
           <constructor-arg>
             <list value-type="ru.intertrust.cm_sochi.srv.connector.sochi.collections.Field">
                 <bean class="ru.intertrust.cm_sochi.srv.connector.sochi.collections.Field" p:name="self">
